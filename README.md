@@ -1,3 +1,8 @@
+This is a pretty straighforward application. I used React. I hit the Yelp search API to find a list of businesses and then once a business is selected I pass the ID to the result component where it hits the Yelp API again to get more detailed information.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
